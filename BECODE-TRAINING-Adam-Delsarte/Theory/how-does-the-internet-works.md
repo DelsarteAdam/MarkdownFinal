@@ -1,5 +1,10 @@
 # HOW THE INTERNET WORK {#title}
 
+## Proposition de Cédric Truyen
+Pourquoi ne pas faire une belle petite introduction ?
+Et si tu ajoutais un petit gif ?
+
+
 ---
 
 [intro](#title)---[server](#server)---[files](#limit)
@@ -60,3 +65,7 @@ all the package are re-assembled in the destination
 [^1]: The Router play a important rôle for Routing the data :smile:.
 
 [intro](#title)---[server](#server)---[files](#limit)
+
+
+### This theory file has been reviewed by Cédric Truyen
+![Bean](bean_ok.gif)
